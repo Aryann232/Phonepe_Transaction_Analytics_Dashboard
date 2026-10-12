@@ -4,7 +4,8 @@
 This project presents an interactive data analytics dashboard for analyzing PhonePe transaction and user data for 2024. It highlights transaction performance, monthly trends, service-wise transaction amounts, top-spending users, and user age-group distribution.
 
 ## Dashboard Preview
-![PhonePe Analysis Dashboard](images/phonepe-dashboard.png)
+
+![PhonePe Dashboard](images/phonepe-dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 - **Total Users:** 108K
